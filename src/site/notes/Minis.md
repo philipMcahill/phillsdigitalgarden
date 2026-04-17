@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/minis/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/minis/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
